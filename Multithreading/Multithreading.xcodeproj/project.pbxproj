@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44BA1C092BB0336500ED1788 /* Day5task1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C082BB0336500ED1788 /* Day5task1ViewController.swift */; };
+		44BA1C0B2BB0358A00ED1788 /* Day5task2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C0A2BB0358A00ED1788 /* Day5task2ViewController.swift */; };
+		44BA1C0D2BB0367100ED1788 /* Day5task3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C0C2BB0367100ED1788 /* Day5task3ViewController.swift */; };
+		44BA1C0F2BB04DCC00ED1788 /* Day5task4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C0E2BB04DCC00ED1788 /* Day5task4ViewController.swift */; };
+		44BA1C112BB04E5900ED1788 /* Day5task5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C102BB04E5900ED1788 /* Day5task5ViewController.swift */; };
+		44BA1C132BB0554000ED1788 /* Day5task6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C122BB0554000ED1788 /* Day5task6ViewController.swift */; };
+		44BA1C152BB0572600ED1788 /* Day5task7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C142BB0572600ED1788 /* Day5task7ViewController.swift */; };
+		44BA1C172BB058F200ED1788 /* Day5task8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44BA1C162BB058F200ED1788 /* Day5task8ViewController.swift */; };
 		44DFD5E92BA8BD6B00E38421 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DFD5E82BA8BD6B00E38421 /* AppDelegate.swift */; };
 		44DFD5EB2BA8BD6B00E38421 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DFD5EA2BA8BD6B00E38421 /* SceneDelegate.swift */; };
 		44DFD5ED2BA8BD6B00E38421 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DFD5EC2BA8BD6B00E38421 /* ViewController.swift */; };
@@ -15,6 +23,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44BA1C082BB0336500ED1788 /* Day5task1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task1ViewController.swift; sourceTree = "<group>"; };
+		44BA1C0A2BB0358A00ED1788 /* Day5task2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task2ViewController.swift; sourceTree = "<group>"; };
+		44BA1C0C2BB0367100ED1788 /* Day5task3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task3ViewController.swift; sourceTree = "<group>"; };
+		44BA1C0E2BB04DCC00ED1788 /* Day5task4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task4ViewController.swift; sourceTree = "<group>"; };
+		44BA1C102BB04E5900ED1788 /* Day5task5ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task5ViewController.swift; sourceTree = "<group>"; };
+		44BA1C122BB0554000ED1788 /* Day5task6ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task6ViewController.swift; sourceTree = "<group>"; };
+		44BA1C142BB0572600ED1788 /* Day5task7ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task7ViewController.swift; sourceTree = "<group>"; };
+		44BA1C162BB058F200ED1788 /* Day5task8ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day5task8ViewController.swift; sourceTree = "<group>"; };
 		44DFD5E52BA8BD6B00E38421 /* Multithreading.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Multithreading.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44DFD5E82BA8BD6B00E38421 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44DFD5EA2BA8BD6B00E38421 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +76,14 @@
 				44DFD5F12BA8BD6C00E38421 /* Assets.xcassets */,
 				44DFD5F32BA8BD6C00E38421 /* LaunchScreen.storyboard */,
 				44DFD5F62BA8BD6C00E38421 /* Info.plist */,
+				44BA1C082BB0336500ED1788 /* Day5task1ViewController.swift */,
+				44BA1C0A2BB0358A00ED1788 /* Day5task2ViewController.swift */,
+				44BA1C0C2BB0367100ED1788 /* Day5task3ViewController.swift */,
+				44BA1C0E2BB04DCC00ED1788 /* Day5task4ViewController.swift */,
+				44BA1C102BB04E5900ED1788 /* Day5task5ViewController.swift */,
+				44BA1C122BB0554000ED1788 /* Day5task6ViewController.swift */,
+				44BA1C142BB0572600ED1788 /* Day5task7ViewController.swift */,
+				44BA1C162BB058F200ED1788 /* Day5task8ViewController.swift */,
 			);
 			path = Multithreading;
 			sourceTree = "<group>";
@@ -134,8 +158,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44BA1C152BB0572600ED1788 /* Day5task7ViewController.swift in Sources */,
+				44BA1C0F2BB04DCC00ED1788 /* Day5task4ViewController.swift in Sources */,
+				44BA1C132BB0554000ED1788 /* Day5task6ViewController.swift in Sources */,
 				44DFD5ED2BA8BD6B00E38421 /* ViewController.swift in Sources */,
+				44BA1C112BB04E5900ED1788 /* Day5task5ViewController.swift in Sources */,
+				44BA1C0B2BB0358A00ED1788 /* Day5task2ViewController.swift in Sources */,
+				44BA1C172BB058F200ED1788 /* Day5task8ViewController.swift in Sources */,
+				44BA1C0D2BB0367100ED1788 /* Day5task3ViewController.swift in Sources */,
 				44DFD5E92BA8BD6B00E38421 /* AppDelegate.swift in Sources */,
+				44BA1C092BB0336500ED1788 /* Day5task1ViewController.swift in Sources */,
 				44DFD5EB2BA8BD6B00E38421 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
