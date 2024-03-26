@@ -15,6 +15,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		447AA4392BB1E49D007770BD /* task1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		447AA43A2BB1EE43007770BD /* task2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		447AA43B2BB1EFB3007770BD /* task3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		447AA43C2BB1FB9F007770BD /* task4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		447AA43D2BB2059D007770BD /* task5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		447AA43E2BB20A67007770BD /* task6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = task6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		44DFD5E52BA8BD6B00E38421 /* Multithreading.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Multithreading.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44DFD5E82BA8BD6B00E38421 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44DFD5EA2BA8BD6B00E38421 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +66,12 @@
 				44DFD5F12BA8BD6C00E38421 /* Assets.xcassets */,
 				44DFD5F32BA8BD6C00E38421 /* LaunchScreen.storyboard */,
 				44DFD5F62BA8BD6C00E38421 /* Info.plist */,
+				447AA4392BB1E49D007770BD /* task1.playground */,
+				447AA43A2BB1EE43007770BD /* task2.playground */,
+				447AA43B2BB1EFB3007770BD /* task3.playground */,
+				447AA43C2BB1FB9F007770BD /* task4.playground */,
+				447AA43D2BB2059D007770BD /* task5.playground */,
+				447AA43E2BB20A67007770BD /* task6.playground */,
 			);
 			path = Multithreading;
 			sourceTree = "<group>";
